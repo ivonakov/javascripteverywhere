@@ -16,12 +16,12 @@
     "url": "git+https://github.com/javascripteverywhere/web.git"
   },
   "keywords": [],
-  "author": "Adam Scott <adam@jseverywhere.io>",
+  "author": "Ivajlo Nakov <ivonakov@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/javascripteverywhere/web/issues"
+    "url": "https://github.com/ivonakov/javascripteverywhere/web/issues"
   },
-  "homepage": "https://github.com/javascripteverywhere/web#readme",
+  "homepage": "https://github.com/ivonakov/javascripteverywhere/web#readme",
   "dependencies": {
     "@apollo/client": "^3.0.0-beta.24",
     "@types/react": "^16.9.17",
